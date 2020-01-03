@@ -1,0 +1,402 @@
+.navbar .navbar-brand
+{
+     font-size: 28px;
+    text-transform: uppercase;
+}
+.nav-link
+{
+ text-transform: uppercase;
+}
+.dropdown-item
+{
+ text-transform: uppercase;
+}
+.carousel-caption {
+ top: 33%;
+}
+.carousel-inner {
+ height: 550px;
+}
+.carousel-caption h5
+{
+ color: #FFF;
+}
+.carousel-caption .btn
+{
+ border-color: #FFF;
+ font-size: 13px;
+ color: #FFF;
+ text-transform: uppercase;
+   border-radius: 23px;
+   font-weight: 600;
+   padding: 11px 25px;
+
+
+} 
+.carousel-caption .btn:hover
+{ 
+ background-color: #FFF;
+ color:#5fb759;
+}
+ .carousel-caption .btn1
+{
+ border-color: #FFF;
+ font-size: 13px;
+ color: #5fb759;
+ text-transform: uppercase;
+   border-radius: 23px;
+   font-weight: 600;
+   padding: 11px 25px;
+   background-color: #FFF;
+   margin-left: 16px;
+
+
+
+} 
+.carousel-caption .btn1:hover
+{ 
+ background-color: #5fb759;
+ color:#FFF;
+} 
+.About h5
+{
+ color: #60B85A;
+ text-transform: uppercase;
+ font-size: 16px;
+ padding-top: 100px;
+}
+.About h1
+{
+ font-size: 30px;
+ font-weight: 800;
+ margin-top: 20px;
+    margin-bottom: 0px;
+}
+.Ser-head
+{
+ padding-top: 50px;
+}
+.services
+{
+     font-weight: 600;
+     padding-bottom: 25px;
+}
+    
+.services i
+{
+    margin-right: 8px;
+    font-size: 20px;
+    background-color: #44AA9C;
+    padding: 10px;
+    color: #FFF;
+    border-radius: 24px;
+}
+.btn-ser 
+{
+   border-color: #FFF;
+   background-color: #60B85A;
+   font-size: 13px;
+   color: #FFF;
+   text-transform: uppercase;
+   border-radius: 23px;
+   font-weight: 600;
+   padding: 11px 25px;
+
+}
+.right-text-content
+{
+ padding-top: 145px;
+}
+.ser-text p
+{
+ font-size: 16.5px;
+    line-height: 27px;
+    color: #777;
+}
+.features
+{
+ padding-bottom: 100px;
+}
+.fe-head
+{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.fe-head h3
+{
+ font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.25px;
+    margin-bottom: 15px;
+}
+.fe-head p
+{
+    font-size: 17px;
+    color: #777;
+}
+a.text-button
+{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #1e1e1e;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transition: all 0.3s ease 0s;
+}
+a.text-button:hover
+{
+
+    color: #60B85A;
+    margin-left: 5px;
+
+}
+a.text-button i:hover
+{
+
+    color: #60B85A;
+    margin-left: 5px;
+
+}
+.SUBSCRIBE
+{
+ margin-top: 120px;
+    padding: 80px 0px;
+    padding: 120px 0px;
+    background-image: url(../img/baa.JPG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.subscribe
+{
+ text-align: center;
+}
+.subscribe h6
+{
+ color: #FFF;
+ font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.25px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.subscribe p
+{
+ text-align: center;
+    font-size: 15px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 40px;
+}
+.subscribe h3
+{
+ color: #FFF;
+ padding-bottom: 5px;
+}
+.email
+{
+ width: 73%;
+    height: 38px;
+    border-radius: 19px;
+    border: 1px solid #FFF;
+    padding: 0px 20px;
+    font-size: 13px;
+    color: #FFF;
+}
+.btn-sub
+{
+  border-color: #FFF;
+ font-size: 13px;
+ color: #5fb759;
+ text-transform: uppercase;
+   border-radius: 23px;
+   font-weight: 600;
+   padding: 11px 25px;
+   background-color: #FFF;
+   margin-left: 16px;
+
+}
+.btn-sub:hover
+
+{ 
+ background-color: #5fb759;
+ color:#FFF;
+} 
+.our-head
+{
+ padding-top: 100px;
+}
+.our-head h6
+{
+ color: #5FB75E;
+ text-transform: uppercase;
+ font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.25px;
+
+}
+.our-head h1
+{
+ padding-bottom: 50px;
+ font-weight: 700;
+}
+.our-list ul
+{
+ list-style: none;
+ text-transform: uppercase;
+}
+.our-list ul li.active
+{
+ color: #5FB75E;
+}
+.our-list ul li 
+{
+ padding-bottom: 20px;
+ color: #9a9a9a;
+ font-size: 13px;
+ font-weight: 700;
+ cursor: pointer;
+ display: block;
+ transition: all 0.3s ease-in-out;
+
+}
+.our-list ul li:hover 
+{
+ color: #5FB75E;
+ cursor: pointer;
+ transition: all 0.3s ease-in-out;
+
+}
+.our-content
+{
+ padding-top: 90px;
+ padding-bottom: 50px;
+}
+.col-lg-4
+{
+ left: 10px;
+}
+.item
+{
+ padding-top: 30px
+}
+.team
+{
+ margin-top: 120px;
+    padding: 80px 0px;
+    padding: 120px 0px;
+    background-image: url(../img/ba1.JPG);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.team-head
+{
+ text-align: center;
+ color: #FFF;
+ padding-bottom: 55px;
+
+}
+.team-head h6
+{
+ font-weight: 500
+}
+.team-head h1
+{
+ font-weight: 700
+}
+.contact-head
+{
+ padding-top: 50px;
+
+}
+.contact-head h6
+{
+	 color:#5fb759;
+	 font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.25px;
+}
+.contact-head h2
+{
+    font-weight: 700;
+}
+.contact-info
+{
+    padding: 12px;
+}
+.contact-info  li 
+{
+    padding-bottom: 20px;
+	font-size: 14px;
+	font-weight: bold;
+    list-style: none;
+}
+.contact-info i
+{
+     margin-right: 8px;
+    font-size: 20px;
+    background-color: #44AA9C;
+    padding: 10px;
+    color: #FFF;
+    border-radius: 24px;   
+}
+.contact-form
+{
+    padding: 55px 40px;
+
+}
+.contact-form input, .contact-form textarea 
+{
+    color: #7a7a7a;
+    font-size: 15px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    width: 100%;
+    height: 46px;
+    outline: none;
+    padding-top: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin-bottom: 30px;
+}
+    .contact-form textarea {
+    height: 150px;
+    resize: none;
+    padding: 20px;
+}
+button.main-button-icon
+{
+    border: none;
+    outline: none;
+    font-size: 13px;
+    border-radius: 25px;
+    padding: 13px 25px;
+    background-color: #5fb759;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transition: all 0.3s ease 0s;
+}
+#footer
+{
+	background: #333;
+	color: #fff;
+	padding: 12px;
+}
+.fa-heart-o
+{
+	margin: 3px;
+	color: red;
+}
